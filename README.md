@@ -1,0 +1,2 @@
+# individualproject git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/marcellinohans8-sketch/individualproject.git git push -u origin main
+# individualproject
