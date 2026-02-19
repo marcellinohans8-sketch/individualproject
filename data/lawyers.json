@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "UserId": 2,
+    "CategoryId": 1,
+    "fullName": "Hans, S.H.",
+    "officeAddress": "Jakarta",
+    "rating": 4.8,
+    "photoUrl": "https://example.com/lawyer1.jpg",
+    "createdAt": "2026-02-17T11:00:00Z",
+    "updatedAt": "2026-02-17T11:00:00Z"
+  },
+  {
+    "id": 2,
+    "UserId": 3,
+    "CategoryId": 2,
+    "fullName": "Budi Hartono, S.H.",
+    "officeAddress": "Bandung",
+    "rating": 4.6,
+    "photoUrl": "https://example.com/lawyer2.jpg",
+    "createdAt": "2026-02-17T11:01:00Z",
+    "updatedAt": "2026-02-17T11:01:00Z"
+  },
+  {
+    "id": 3,
+    "UserId": 4,
+    "CategoryId": 3,
+    "fullName": "Rina Melati, S.H.",
+    "officeAddress": "Surabaya",
+    "rating": 4.7,
+    "photoUrl": "https://example.com/lawyer3.jpg",
+    "createdAt": "2026-02-17T11:02:00Z",
+    "updatedAt": "2026-02-17T11:02:00Z"
+  },
+  {
+    "id": 4,
+    "UserId": 5,
+    "CategoryId": 4,
+    "fullName": "Dedi Kurniawan, S.H.",
+    "officeAddress": "Medan",
+    "rating": 4.5,
+    "photoUrl": "https://example.com/lawyer4.jpg",
+    "createdAt": "2026-02-17T11:03:00Z",
+    "updatedAt": "2026-02-17T11:03:00Z"
+  },
+  {
+    "id": 5,
+    "UserId": 6,
+    "CategoryId": 5,
+    "fullName": "Agus Salim, S.H.",
+    "officeAddress": "Yogyakarta",
+    "rating": 4.4,
+    "photoUrl": "https://example.com/lawyer5.jpg",
+    "createdAt": "2026-02-17T11:04:00Z",
+    "updatedAt": "2026-02-17T11:04:00Z"
+  },
+  {
+    "id": 6,
+    "UserId": 7,
+    "CategoryId": 6,
+    "fullName": "Maya Putri, S.H.",
+    "officeAddress": "Semarang",
+    "rating": 4.6,
+    "photoUrl": "https://example.com/lawyer6.jpg",
+    "createdAt": "2026-02-17T11:05:00Z",
+    "updatedAt": "2026-02-17T11:05:00Z"
+  },
+  {
+    "id": 7,
+    "UserId": 8,
+    "CategoryId": 7,
+    "fullName": "Fajar Nugroho, S.H.",
+    "officeAddress": "Makassar",
+    "rating": 4.3,
+    "photoUrl": "https://example.com/lawyer7.jpg",
+    "createdAt": "2026-02-17T11:06:00Z",
+    "updatedAt": "2026-02-17T11:06:00Z"
+  },
+  {
+    "id": 8,
+    "UserId": 9,
+    "CategoryId": 8,
+    "fullName": "Nina Kartika, S.H.",
+    "officeAddress": "Denpasar",
+    "rating": 4.9,
+    "photoUrl": "https://example.com/lawyer8.jpg",
+    "createdAt": "2026-02-17T11:07:00Z",
+    "updatedAt": "2026-02-17T11:07:00Z"
+  },
+  {
+    "id": 9,
+    "UserId": 10,
+    "CategoryId": 1,
+    "fullName": "Rudi Setiawan, S.H.",
+    "officeAddress": "Jakarta",
+    "rating": 4.2,
+    "photoUrl": "https://example.com/lawyer9.jpg",
+    "createdAt": "2026-02-17T11:08:00Z",
+    "updatedAt": "2026-02-17T11:08:00Z"
+  },
+  {
+    "id": 10,
+    "UserId": 11,
+    "CategoryId": 2,
+    "fullName": "Lina Marlina, S.H.",
+    "officeAddress": "Bogor",
+    "rating": 4.7,
+    "photoUrl": "https://example.com/lawyer10.jpg",
+    "createdAt": "2026-02-17T11:09:00Z",
+    "updatedAt": "2026-02-17T11:09:00Z"
+  },
+  {
+    "id": 11,
+    "UserId": 12,
+    "CategoryId": 3,
+    "fullName": "Hendra Wijaya, S.H.",
+    "officeAddress": "Malang",
+    "rating": 4.5,
+    "photoUrl": "https://example.com/lawyer11.jpg",
+    "createdAt": "2026-02-17T11:10:00Z",
+    "updatedAt": "2026-02-17T11:10:00Z"
+  },
+  {
+    "id": 12,
+    "UserId": 13,
+    "CategoryId": 4,
+    "fullName": "Sari Dewi, S.H.",
+    "officeAddress": "Padang",
+    "rating": 4.4,
+    "photoUrl": "https://example.com/lawyer12.jpg",
+    "createdAt": "2026-02-17T11:11:00Z",
+    "updatedAt": "2026-02-17T11:11:00Z"
+  },
+  {
+    "id": 13,
+    "UserId": 14,
+    "CategoryId": 5,
+    "fullName": "Yoga Pratama, S.H.",
+    "officeAddress": "Palembang",
+    "rating": 4.6,
+    "photoUrl": "https://example.com/lawyer13.jpg",
+    "createdAt": "2026-02-17T11:12:00Z",
+    "updatedAt": "2026-02-17T11:12:00Z"
+  },
+  {
+    "id": 14,
+    "UserId": 15,
+    "CategoryId": 6,
+    "fullName": "Rika Anjani, S.H.",
+    "officeAddress": "Pontianak",
+    "rating": 4.3,
+    "photoUrl": "https://example.com/lawyer14.jpg",
+    "createdAt": "2026-02-17T11:13:00Z",
+    "updatedAt": "2026-02-17T11:13:00Z"
+  },
+  {
+    "id": 15,
+    "UserId": 16,
+    "CategoryId": 7,
+    "fullName": "Tono Saputra, S.H.",
+    "officeAddress": "Balikpapan",
+    "rating": 4.2,
+    "photoUrl": "https://example.com/lawyer15.jpg",
+    "createdAt": "2026-02-17T11:14:00Z",
+    "updatedAt": "2026-02-17T11:14:00Z"
+  },
+  {
+    "id": 16,
+    "UserId": 17,
+    "CategoryId": 8,
+    "fullName": "Mega Lestari, S.H.",
+    "officeAddress": "Manado",
+    "rating": 4.9,
+    "photoUrl": "https://example.com/lawyer16.jpg",
+    "createdAt": "2026-02-17T11:15:00Z",
+    "updatedAt": "2026-02-17T11:15:00Z"
+  },
+  {
+    "id": 17,
+    "UserId": 18,
+    "CategoryId": 1,
+    "fullName": "Dian Permata, S.H.",
+    "officeAddress": "Jakarta",
+    "rating": 4.5,
+    "photoUrl": "https://example.com/lawyer17.jpg",
+    "createdAt": "2026-02-17T11:16:00Z",
+    "updatedAt": "2026-02-17T11:16:00Z"
+  },
+  {
+    "id": 18,
+    "UserId": 19,
+    "CategoryId": 2,
+    "fullName": "Arif Rahman, S.H.",
+    "officeAddress": "Bekasi",
+    "rating": 4.4,
+    "photoUrl": "https://2rlgj3c327.ucarecd.net/5e5f06d9-dc9a-4c0c-a07c-4b83ca30070a/-/preview/666x1000/",
+    "createdAt": "2026-02-17T11:17:00Z",
+    "updatedAt": "2026-02-17T11:17:00Z"
+  },
+  {
+    "id": 19,
+    "UserId": 20,
+    "CategoryId": 3,
+    "fullName": "Putri Ayu, S.H.",
+    "officeAddress": "Solo",
+    "rating": 4.6,
+    "photoUrl": "https://2rlgj3c327.ucarecd.net/0568ee62-369d-4559-87f1-b888f37a0a12/-/preview/666x1000/",
+    "createdAt": "2026-02-17T11:18:00Z",
+    "updatedAt": "2026-02-17T11:18:00Z"
+  },
+  {
+    "id": 20,
+    "UserId": 21,
+    "CategoryId": 4,
+    "fullName": "Rangga Mahendra, S.H.",
+    "officeAddress": "Tangerang",
+    "rating": 4.7,
+    "photoUrl": "https://2rlgj3c327.ucarecd.net/151bcb64-2cc5-43e5-acfd-dbd60d40a266/-/preview/666x1000/",
+    "createdAt": "2026-02-17T11:19:00Z",
+    "updatedAt": "2026-02-17T11:19:00Z"
+  }
+]

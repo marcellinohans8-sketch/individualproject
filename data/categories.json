@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Hukum Pidana",
+    "description": "Kasus kriminal dan pelanggaran hukum pidana"
+  },
+  {
+    "id": 2,
+    "name": "Hukum Perdata",
+    "description": "Sengketa individu atau perusahaan"
+  },
+  {
+    "id": 3,
+    "name": "Hukum Keluarga",
+    "description": "Perceraian, hak asuh anak, dan warisan"
+  },
+  {
+    "id": 4,
+    "name": "Hukum Bisnis",
+    "description": "Kontrak dan sengketa perusahaan"
+  },
+  {
+    "id": 5,
+    "name": "Hukum Properti",
+    "description": "Sengketa tanah dan kepemilikan properti"
+  },
+  {
+    "id": 6,
+    "name": "Hukum Ketenagakerjaan",
+    "description": "PHK, kontrak kerja, dan hak pekerja"
+  },
+  {
+    "id": 7,
+    "name": "Hukum Pajak",
+    "description": "Masalah perpajakan individu dan perusahaan"
+  },
+  {
+    "id": 8,
+    "name": "Hukum Teknologi & IT",
+    "description": "Cyber law dan sengketa digital"
+  }
+]

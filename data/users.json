@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "email": "andi@mail.com",
+    "password": "123456",
+    "role": "client",
+    "createdAt": "2026-02-17T10:00:00Z",
+    "updatedAt": "2026-02-17T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "email": "siti@mail.com",
+    "password": "password123",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T10:10:00Z",
+    "updatedAt": "2026-02-17T10:10:00Z"
+  },
+  {
+    "id": 3,
+    "email": "admin@mail.com",
+    "password": "123456",
+    "role": "admin",
+    "createdAt": "2026-02-17T10:20:00Z",
+    "updatedAt": "2026-02-17T10:20:00Z"
+  },
+  {
+    "id": 4,
+    "email": "lawyer4@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T10:30:00Z",
+    "updatedAt": "2026-02-17T10:30:00Z"
+  },
+  {
+    "id": 5,
+    "email": "lawyer5@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T10:35:00Z",
+    "updatedAt": "2026-02-17T10:35:00Z"
+  },
+  {
+    "id": 6,
+    "email": "lawyer6@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T10:40:00Z",
+    "updatedAt": "2026-02-17T10:40:00Z"
+  },
+  {
+    "id": 7,
+    "email": "lawyer7@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T10:45:00Z",
+    "updatedAt": "2026-02-17T10:45:00Z"
+  },
+  {
+    "id": 8,
+    "email": "lawyer8@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T10:50:00Z",
+    "updatedAt": "2026-02-17T10:50:00Z"
+  },
+  {
+    "id": 9,
+    "email": "lawyer9@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T10:55:00Z",
+    "updatedAt": "2026-02-17T10:55:00Z"
+  },
+  {
+    "id": 10,
+    "email": "lawyer10@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:00:00Z",
+    "updatedAt": "2026-02-17T11:00:00Z"
+  },
+  {
+    "id": 11,
+    "email": "lawyer11@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:05:00Z",
+    "updatedAt": "2026-02-17T11:05:00Z"
+  },
+  {
+    "id": 12,
+    "email": "lawyer12@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:10:00Z",
+    "updatedAt": "2026-02-17T11:10:00Z"
+  },
+  {
+    "id": 13,
+    "email": "lawyer13@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:15:00Z",
+    "updatedAt": "2026-02-17T11:15:00Z"
+  },
+  {
+    "id": 14,
+    "email": "lawyer14@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:20:00Z",
+    "updatedAt": "2026-02-17T11:20:00Z"
+  },
+  {
+    "id": 15,
+    "email": "lawyer15@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:25:00Z",
+    "updatedAt": "2026-02-17T11:25:00Z"
+  },
+  {
+    "id": 16,
+    "email": "lawyer16@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:30:00Z",
+    "updatedAt": "2026-02-17T11:30:00Z"
+  },
+  {
+    "id": 17,
+    "email": "lawyer17@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:35:00Z",
+    "updatedAt": "2026-02-17T11:35:00Z"
+  },
+  {
+    "id": 18,
+    "email": "lawyer18@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:40:00Z",
+    "updatedAt": "2026-02-17T11:40:00Z"
+  },
+  {
+    "id": 19,
+    "email": "lawyer19@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:45:00Z",
+    "updatedAt": "2026-02-17T11:45:00Z"
+  },
+  {
+    "id": 20,
+    "email": "lawyer20@mail.com",
+    "password": "123456",
+    "role": "lawyer",
+    "createdAt": "2026-02-17T11:50:00Z",
+    "updatedAt": "2026-02-17T11:50:00Z"
+  }
+]

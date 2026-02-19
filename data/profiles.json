@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "UserId": 2,
+    "bio": "Spesialis hukum pidana.",
+    "education": "Universitas Indonesia",
+    "consultationFee": 500000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:00:00Z",
+    "updatedAt": "2026-02-17T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "UserId": 3,
+    "bio": "Ahli hukum perdata.",
+    "education": "Universitas Padjadjaran",
+    "consultationFee": 450000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:01:00Z",
+    "updatedAt": "2026-02-17T12:01:00Z"
+  },
+  {
+    "id": 3,
+    "UserId": 4,
+    "bio": "Fokus hukum keluarga.",
+    "education": "Universitas Airlangga",
+    "consultationFee": 400000,
+    "availableOnline": false,
+    "createdAt": "2026-02-17T12:02:00Z",
+    "updatedAt": "2026-02-17T12:02:00Z"
+  },
+  {
+    "id": 4,
+    "UserId": 5,
+    "bio": "Konsultan hukum bisnis.",
+    "education": "UGM",
+    "consultationFee": 700000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:03:00Z",
+    "updatedAt": "2026-02-17T12:03:00Z"
+  },
+  {
+    "id": 5,
+    "UserId": 6,
+    "bio": "Spesialis properti.",
+    "education": "Universitas Diponegoro",
+    "consultationFee": 350000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:04:00Z",
+    "updatedAt": "2026-02-17T12:04:00Z"
+  },
+  {
+    "id": 6,
+    "UserId": 7,
+    "bio": "Hukum ketenagakerjaan.",
+    "education": "Universitas Brawijaya",
+    "consultationFee": 420000,
+    "availableOnline": false,
+    "createdAt": "2026-02-17T12:05:00Z",
+    "updatedAt": "2026-02-17T12:05:00Z"
+  },
+  {
+    "id": 7,
+    "UserId": 8,
+    "bio": "Ahli hukum pajak.",
+    "education": "Universitas Hasanuddin",
+    "consultationFee": 650000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:06:00Z",
+    "updatedAt": "2026-02-17T12:06:00Z"
+  },
+  {
+    "id": 8,
+    "UserId": 9,
+    "bio": "Cyber law specialist.",
+    "education": "ITS",
+    "consultationFee": 800000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:07:00Z",
+    "updatedAt": "2026-02-17T12:07:00Z"
+  },
+  {
+    "id": 9,
+    "UserId": 10,
+    "bio": "Pidana umum.",
+    "education": "UII",
+    "consultationFee": 300000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:08:00Z",
+    "updatedAt": "2026-02-17T12:08:00Z"
+  },
+  {
+    "id": 10,
+    "UserId": 11,
+    "bio": "Perdata & kontrak.",
+    "education": "UNPAD",
+    "consultationFee": 500000,
+    "availableOnline": false,
+    "createdAt": "2026-02-17T12:09:00Z",
+    "updatedAt": "2026-02-17T12:09:00Z"
+  },
+  {
+    "id": 11,
+    "UserId": 12,
+    "bio": "Hukum keluarga modern.",
+    "education": "UNAIR",
+    "consultationFee": 450000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:10:00Z",
+    "updatedAt": "2026-02-17T12:10:00Z"
+  },
+  {
+    "id": 12,
+    "UserId": 13,
+    "bio": "Legal bisnis startup.",
+    "education": "UGM",
+    "consultationFee": 750000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:11:00Z",
+    "updatedAt": "2026-02-17T12:11:00Z"
+  },
+  {
+    "id": 13,
+    "UserId": 14,
+    "bio": "Sengketa properti.",
+    "education": "UNDIP",
+    "consultationFee": 380000,
+    "availableOnline": false,
+    "createdAt": "2026-02-17T12:12:00Z",
+    "updatedAt": "2026-02-17T12:12:00Z"
+  },
+  {
+    "id": 14,
+    "UserId": 15,
+    "bio": "PHK & tenaga kerja.",
+    "education": "UB",
+    "consultationFee": 420000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:13:00Z",
+    "updatedAt": "2026-02-17T12:13:00Z"
+  },
+  {
+    "id": 15,
+    "UserId": 16,
+    "bio": "Ahli perpajakan.",
+    "education": "UNHAS",
+    "consultationFee": 620000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:14:00Z",
+    "updatedAt": "2026-02-17T12:14:00Z"
+  },
+  {
+    "id": 16,
+    "UserId": 17,
+    "bio": "Hukum digital.",
+    "education": "ITS",
+    "consultationFee": 850000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:15:00Z",
+    "updatedAt": "2026-02-17T12:15:00Z"
+  },
+  {
+    "id": 17,
+    "UserId": 18,
+    "bio": "Pidana korporasi.",
+    "education": "UI",
+    "consultationFee": 540000,
+    "availableOnline": false,
+    "createdAt": "2026-02-17T12:16:00Z",
+    "updatedAt": "2026-02-17T12:16:00Z"
+  },
+  {
+    "id": 18,
+    "UserId": 19,
+    "bio": "Kontrak bisnis.",
+    "education": "UNPAD",
+    "consultationFee": 560000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:17:00Z",
+    "updatedAt": "2026-02-17T12:17:00Z"
+  },
+  {
+    "id": 19,
+    "UserId": 20,
+    "bio": "Konsultan keluarga.",
+    "education": "UNAIR",
+    "consultationFee": 430000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:18:00Z",
+    "updatedAt": "2026-02-17T12:18:00Z"
+  },
+  {
+    "id": 20,
+    "UserId": 21,
+    "bio": "Corporate legal advisor.",
+    "education": "UGM",
+    "consultationFee": 780000,
+    "availableOnline": true,
+    "createdAt": "2026-02-17T12:19:00Z",
+    "updatedAt": "2026-02-17T12:19:00Z"
+  }
+]
