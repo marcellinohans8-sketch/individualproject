@@ -11,11 +11,13 @@ const lawyerRoute = require("./lawyerRoute");
 const paymentRoute = require("./paymentRoute");
 const aiRoute = require("./aiRoute");
 const googleLoginRoute = require("./googleLoginRoute");
+const publicLawyerRoute = require("./publicLawyerRoute");
 
 router.use("/register", registerRoute);
 router.use("/login", loginRoute);
 router.use("/categories", categoryRoute);
 router.use("/google-login", googleLoginRoute);
+router.use("/pub", publicLawyerRoute);
 
 router.use(authentication);
 
