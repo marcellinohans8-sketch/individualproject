@@ -42,7 +42,7 @@ class AuthController {
 
   static async googleLogin(req, res, next) {
     try {
-      const { access_token_google } = req.headers;
+      const access_token_google = req.headers["access-token-google"];
       const ticket = await client.verifyIdToken({
         idToken: access_token_google,
         audience: process.env.GOOGLE_CLIENT_ID,
