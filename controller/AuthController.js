@@ -58,6 +58,7 @@ class AuthController {
         where: { email: payload.email },
         defaults: {
           password: Date.now().toString() + Math.random().toString(),
+          role: "client",
         },
       });
       const access_token = signToken({
