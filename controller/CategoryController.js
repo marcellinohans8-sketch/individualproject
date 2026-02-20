@@ -9,6 +9,8 @@ class CategoryController {
         data: category,
       });
     } catch (error) {
+      console.log(error);
+
       next(error);
     }
   }
@@ -24,6 +26,8 @@ class CategoryController {
         message: `Succedd create new product ${category.name}`,
       });
     } catch (error) {
+      console.log(error);
+
       next(error);
     }
   }
@@ -44,6 +48,8 @@ class CategoryController {
         data: category,
       });
     } catch (error) {
+      console.log(error);
+
       next(error);
     }
   }

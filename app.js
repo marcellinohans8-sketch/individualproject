@@ -10,7 +10,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://frontend-beta-flame-87.vercel.app",
   }),
 );
 
@@ -18,10 +18,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
-
-app.get("/", (req, res) => {
-  res.redirect("/public");
-});
 
 app.use(router);
 app.use(errorHandler);

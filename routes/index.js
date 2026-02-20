@@ -8,11 +8,8 @@ const registerRoute = require("./registerRoute");
 const categoryRoute = require("./categoryRoute");
 const profileRoute = require("./profileRoute");
 const lawyerRoute = require("./lawyerRoute");
-const publicLawyerRoute = require("./publicLawyerRoute");
 const paymentRoute = require("./paymentRoute");
 const aiRoute = require("./aiRoute");
-
-router.use("/pub", publicLawyerRoute);
 
 router.use("/register", registerRoute);
 router.use("/login", loginRoute);
