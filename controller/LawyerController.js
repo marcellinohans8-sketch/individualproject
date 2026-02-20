@@ -96,8 +96,7 @@ class LawyerController {
 
       const { id: userId } = req.user;
 
-      await User.update({ fullName, photoUrl }, { where: { id: userId } });
-
+      // ===== PROFILE =====
       let profile = await Profile.findOne({
         where: { UserId: userId },
       });
@@ -119,8 +118,11 @@ class LawyerController {
         });
       }
 
+      // ===== LAWYER =====
       const lawyer = await Lawyer.create({
         CategoryId,
+        fullName,
+        photoUrl,
         officeAddress,
         rating: 0,
         UserId: userId,
@@ -128,10 +130,10 @@ class LawyerController {
 
       res.status(201).json({ lawyer });
     } catch (error) {
+      console.log(error); // debugging
       next(error);
     }
   }
-
   static async update(req, res, next) {
     try {
       const { CategoryId, fullName, officeAddress, rating, photoUrl } =
